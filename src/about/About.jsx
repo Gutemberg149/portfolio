@@ -669,7 +669,7 @@ const Wrapper = styled.div`
       }
     }
   }
-  @media only screen and (min-device-width: 901px) and (max-device-width: 1200px) and (-webkit-min-device-pixel-ratio: 2) {
+  @media only screen and (min-device-width: 901px) and (max-device-width: 1500px) and (-webkit-min-device-pixel-ratio: 2) {
     margin-top: 0;
     .aboutContainer {
       .titleCoantainer {
